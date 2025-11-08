@@ -74,10 +74,15 @@ Please use responsibly and follow WhatsApp policies to keep your account safe.
 Dukung dan support karya asli dari IsanAmd melalui channel dan YouTube berikut:
 
 CH:
+
 https://whatsapp.com/channel/0029Vb6s3rm4o7qMg3w0KE0K
+
 YT:
+
 https://www.youtube.com/@Esfour00
+
 API:
+
 https://ryous-ap.vercel.app/
 
 Terima kasih banyak telah menggunakan script ini — your support means a lot! 🚀
